@@ -19,3 +19,9 @@
     color: #e74c3c;
     padding: 10px 0;
 }
+
+@media (max-width: 50.5rem) {
+    .st-emotion-cache-13ln4jf {
+        max-width: fit-content;
+    }
+}
