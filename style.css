@@ -1,0 +1,21 @@
+/* Title Style */
+.title {
+    font-size: 2em;
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+/* Subtitle Style */
+.subtitle {
+    font-size: 1em;
+    font-weight: normal;
+    color: #16a085;
+}
+
+/* Section Header Style */
+.section-header {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #e74c3c;
+    padding: 10px 0;
+}
