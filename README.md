@@ -2,6 +2,13 @@
 
 This tool allows you to upload PNG or JPG images and convert them to WebP format. You can download individual converted images or download all as a ZIP file.
 
+## This tool:
+- Allows users to **upload PNG/JPG images** and convert them to **WebP** format.
+- Offers the option to **download individual converted files** or **download all as a ZIP file**. 
+
+## Why WebP?
+WebP offers high-quality compression, reducing image sizes significantly without compromising quality — making it perfect for web optimization!
+
 ## Features
 - Upload PNG or JPG images.
 - Convert images to WebP format.
