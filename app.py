@@ -3,6 +3,12 @@ import zipfile
 import streamlit as st
 from PIL import Image
 
+# Streamlit setup
+st.set_page_config(
+    page_title="Image Converter",
+    page_icon="📁",
+)
+
 # custom CSS from the style.css file
 def load_css():
     with open("style.css") as f:
