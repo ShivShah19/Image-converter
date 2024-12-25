@@ -7,7 +7,6 @@
 
 /* Subtitle Style */
 .subtitle {
-    font-size: 1em !important;
     font-weight: normal;
     color: #16a085;
 }
@@ -26,10 +25,5 @@
     }
     .title {
         font-size: 1.6em !important;
-    }
-    
-    /* Subtitle Style */
-    .subtitle {
-        font-size: 0.7em !important;
     }
 }
