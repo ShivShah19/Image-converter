@@ -1,6 +1,6 @@
 /* Title Style */
 .title {
-    font-size: 2em;
+    font-size: 2em !important;
     font-weight: bold;
     color: #e74c3c;
 }
